@@ -1,4 +1,4 @@
-"""Unit tests — exercise the functions in code/bill.py directly."""
+"""Unit tests — exercise the functions in bill.py directly."""
 
 import pytest
 
