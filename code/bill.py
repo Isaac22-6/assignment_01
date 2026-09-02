@@ -53,7 +53,5 @@ def is_generous(pct):
     >>> is_generous(20)
     True
     """
-    if pct >= 20:
-        return True
-    else:
-        return False
+    return True if pct >= 20 else False
+    
