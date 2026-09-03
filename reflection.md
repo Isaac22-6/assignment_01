@@ -1,5 +1,5 @@
 # Reflection
-I learned how to use the test reults tab to ensure that functions in other modules work properly.
+
 ## Instructions
 
 Reflections are a metcognitive activity where you are encouraged to think about your own thinking. It helps you build a strong understanding of your own learning. A good learner not only "knows what they know", but they "know what they don't know", too. Learning to reflect takes practice, but if your goal is to become a self-directed learner where you can teach yourself things, reflection is imperative.

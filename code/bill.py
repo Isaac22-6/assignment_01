@@ -19,7 +19,7 @@ def tip_amount(subtotal, pct):
     >>> tip_amount(50, 20)
     10.0
     """
-    return round(subtotal * pct / 100, 1)
+    return round(subtotal * pct / 100, 2)
 
 
 def grand_total(subtotal, pct):

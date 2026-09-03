@@ -1,4 +1,5 @@
-Write your reflection here.
+I learned how to use the "Test Results"" tab to ensure that functions from other modules work properly. The "Test Results" tab notifies me if the a function passes a test,
+and shows me the error that I can resolve when it does not pass a test".
 
 See reflection.md for what makes a good reflection — be specific, use the
 terminology from class, and make it actionable.
