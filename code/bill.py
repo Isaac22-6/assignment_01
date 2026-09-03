@@ -1,3 +1,4 @@
+
 """
 bill.py — the Bill Splitter module.
 
@@ -30,7 +31,7 @@ def grand_total(subtotal, pct):
     60.0
     """
     return round((subtotal + tip_amount(subtotal, pct)), 1)
-    pass
+    
 
 
 def split_evenly(total, people):
@@ -55,3 +56,4 @@ def is_generous(pct):
     """
     return True if pct >= 20 else False
     
+
