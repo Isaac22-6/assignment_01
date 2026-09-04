@@ -1,5 +1,8 @@
-I learned how to use the "raise ValueError" can be used to improve input validation. It helpes ensure
-that the divison was proper when calculating the distribution of the bill for the "split_evenly" function.
+I learned how to use "raise ValueError" for calulations within functions to improve input validation. It support edge cases 
+by signaling if the argumnet for party counts was a negative integear or 0, so proper divison can be enusre for the split_evenly. 
+I can practice using "rasie ValueError" when the input for my functions need to meet a certain conditions to work. 
+function.
+Having 0 or a negative integear 
 
 See reflection.md for what makes a good reflection — be specific, use the
 terminology from class, and make it actionable.
