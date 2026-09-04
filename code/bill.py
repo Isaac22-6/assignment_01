@@ -30,7 +30,7 @@ def grand_total(subtotal, pct):
     >>> grand_total(50, 20)
     60.0
     """
-    return round((subtotal + tip_amount(subtotal, pct)), 1)
+    return round(subtotal + tip_amount(subtotal, pct),2)
     
 
 
@@ -54,6 +54,6 @@ def is_generous(pct):
     >>> is_generous(20)
     True
     """
-    return True if pct >= 20 else False
+    return pct >= 20
     
 
